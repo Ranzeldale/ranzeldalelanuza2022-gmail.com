@@ -1,0 +1,16 @@
+body
+{
+margin: 0;
+  padding: 0;
+  background-image: url(coffee1.jpg);
+
+}
+.sign-up
+{
+width: 300px;
+box-shadow: 0 0 6px; rgba(0,0,0,0.3 );
+background: fixed;
+padding: 20px;
+margin: 8% auto 0;
+text-align: center;
+}
